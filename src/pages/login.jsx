@@ -1,6 +1,8 @@
 import React from "react";
 
-export default function Login(){
+import '../css.css'
+
+function Login(){
     return(
         <>
             <div class="container">
@@ -42,3 +44,4 @@ export default function Login(){
     );
 }
 
+export default Login;
