@@ -2,7 +2,7 @@
   "name": "farmer",
   "private": true,
   "homepage": "https://leonidalmanza.github.io/farmer/",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
