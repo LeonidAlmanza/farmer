@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    background-color: black;
+
+}
+.menu-container{
+    display: flex;
+    width: 20pc;
+    background-color: blue;
+    overflow: auto;
+}
+.banner-ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    list-style:none;
+}
+
+banner-ul img{
+    width: 20%;
+    height: 20%;
+}

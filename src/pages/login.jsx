@@ -2,7 +2,7 @@ import { useState } from "react";
 import {useAuth} from "../auth/authProvider";
 import { Navigate } from "react-router-dom";
 
-import '../css.css';
+import '../styles/css.css';
 
 
 function Login(){
